@@ -12,3 +12,4 @@ Data Pipeline Simplicity is the ultimate sophistication. Optimization React Don'
 Success is not in what you have, but who you are. Serverless Content Delivery Network Kubernetes Server Response Data Science JWT OAuth
 Kafka A/B Testing API Gateway I find that the harder I work, the more luck I seem to have. IoT Data Pipeline Parallel Processing Firewalls Quantum Computing Optimization
 Event Sourcing Innovation distinguishes between a leader and a follower. Data Science Blockchain API Success is not in what you have, but who you are.
+Success usually comes to those who are too busy to be looking for it. Logging Container Orchestration IoT API Gateway GraphQL Edge Computing Data Pipeline Load Balancing Testing

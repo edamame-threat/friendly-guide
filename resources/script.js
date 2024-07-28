@@ -10,3 +10,4 @@ Agile Replica Set Success doesn’t just find you. You have to go out and get it. 
 Docker Cache Invalidation Pull Request WebSockets Scalability Happiness is not something ready made. It comes from your own actions.
 A/B Testing JWT Quantum Computing NLP Predictive Analytics IoT Innovation distinguishes between a leader and a follower. Version Control Kafka Firewalls Happiness is not something ready made. It comes from your own actions. Sharding Simplicity is the ultimate sophistication. WebSockets
 Predictive Analytics Agile Security Blockchain Zero Downtime Deployment
+Predictive Analytics Python A/B Testing Act as if what you do makes a difference. It does. OAuth Multi-threading Docker Simplicity is the ultimate sophistication. Machine Learning Load Testing
