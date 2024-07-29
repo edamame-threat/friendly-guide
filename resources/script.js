@@ -9,3 +9,4 @@ Sharding Artificial Intelligence A/B Testing Opportunities don't happen. You cre
 Agile Replica Set Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Neural Networks Data Pipeline Cloud Big Data Server Response Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Event Sourcing Deployment
 Docker Cache Invalidation Pull Request WebSockets Scalability Happiness is not something ready made. It comes from your own actions.
 A/B Testing JWT Quantum Computing NLP Predictive Analytics IoT Innovation distinguishes between a leader and a follower. Version Control Kafka Firewalls Happiness is not something ready made. It comes from your own actions. Sharding Simplicity is the ultimate sophistication. WebSockets
+Predictive Analytics Agile Security Blockchain Zero Downtime Deployment

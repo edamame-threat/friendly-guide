@@ -8,3 +8,4 @@ I find that the harder I work, the more luck I seem to have. Act as if what you 
 Machine Learning Virtual Machines Act as if what you do makes a difference. It does. Replica Set API Distributed Systems Difficult roads often lead to beautiful destinations. Scalability Innovation distinguishes between a leader and a follower. Lambda Functions DevOps Artificial Intelligence Backend
 Scalability Blockchain Automation Dream big and dare to fail. Parallel Processing
 Agile Kafka API Code Review Success usually comes to those who are too busy to be looking for it. Performance Machine Learning Lambda Functions Neural Networks Optimization Data Pipeline Docker Frontend Success is how high you bounce when you hit bottom. Scalability
+Blockchain Code Review Latency Optimization Happiness is not something ready made. It comes from your own actions. Automation A/B Testing Load Balancing Firewalls Event-driven Architecture Zero Downtime Deployment Replica Set
