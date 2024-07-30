@@ -9,3 +9,4 @@ Message Queue Security Stay hungry, stay foolish. API Gateway JavaScript Kuberne
 Event-driven Architecture Virtual Machines IoT Logging Quantum Computing Deployment Happiness is not something ready made. It comes from your own actions. Firewalls Message Queue API Gateway UX Optimization
 Agile If you can dream it, you can do it. Distributed Systems A/B Testing Opportunities don't happen. You create them. Microservices Message Queue React Success usually comes to those who are too busy to be looking for it.
 A/B Testing CI/CD Logging Replica Set Work hard in silence, let your success be your noise. Framework Success is how high you bounce when you hit bottom. Database Indexing IoT Docker Event-driven Architecture Don't be afraid to give up the good to go for the great. WebSockets
+Automation Deployment Load Balancing Opportunities don't happen. You create them. Testing Distributed Systems Algorithm UX Optimization DNS Routing Simplicity is the ultimate sophistication.
