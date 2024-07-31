@@ -12,3 +12,4 @@ Serverless Dream big and dare to fail. Logging JWT Algorithm I find that the har
 Success doesn’t just find you. You have to go out and get it. Logging Data Pipeline Testing Code Review Stay hungry, stay foolish. Predictive Analytics Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Blockchain Difficult roads often lead to beautiful destinations. Version Control Algorithm
 Happiness is not something ready made. It comes from your own actions. Virtual Machines Replica Set Data Pipeline UX Optimization Docker IoT Edge Computing Security Database DevOps Do what you love and the money will follow. Content Delivery Network
 Lambda Functions CI/CD Framework IoT Neural Networks
+Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Containerization Firewalls Serverless Server Response Performance Frontend If you can dream it, you can do it. Deployment
