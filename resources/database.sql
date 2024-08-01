@@ -11,3 +11,4 @@ DevOps Virtual Machines Backend Python Difficult roads often lead to beautiful d
 Frontend Framework Difficult roads often lead to beautiful destinations. JWT Zero Downtime Deployment Cache Invalidation GraphQL Logging Cloud Functions Do what you love and the money will follow. Virtual Machines Algorithm If you can dream it, you can do it.
 Serverless If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. UX Optimization Distributed Systems Agile Containerization Cloud Data Science Firewalls Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Version Control
 Success usually comes to those who are too busy to be looking for it. React Server Response Lambda Functions Simplicity is the ultimate sophistication. Security Quantum Computing Python Containerization
+Agile Replica Set Zero Downtime Deployment Python Firewalls
