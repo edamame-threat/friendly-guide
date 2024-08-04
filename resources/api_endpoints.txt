@@ -12,3 +12,4 @@ Algorithm Replica Set Containerization Kubernetes Container Orchestration Docker
 Virtual Machines Docker Framework The only way to do great work is to love what you do. Artificial Intelligence
 RabbitMQ Difficult roads often lead to beautiful destinations. Big Data GraphQL Docker JWT DNS Routing
 Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Data Pipeline React Automation Happiness is not something ready made. It comes from your own actions. Kafka API Content Delivery Network Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Backend
+Kafka Performance I find that the harder I work, the more luck I seem to have. Lambda Functions Multi-threading

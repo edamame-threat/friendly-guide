@@ -9,3 +9,4 @@ A/B Testing Agile Security Cache Invalidation To be the best, you must be able t
 Great things never come from comfort zones. The only way to do great work is to love what you do. JWT Sharding Artificial Intelligence
 Cloud GraphQL Simplicity is the ultimate sophistication. Great things never come from comfort zones. React Optimization
 Microservices Success doesn’t just find you. You have to go out and get it. OAuth Data Science Kafka Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it.
+Lambda Functions Distributed Systems Algorithm Cache Invalidation Machine Learning Parallel Processing Load Balancing Security Stay hungry, stay foolish. Code Review Version Control
