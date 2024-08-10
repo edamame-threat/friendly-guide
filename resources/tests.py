@@ -9,3 +9,4 @@ Optimization UX Optimization Agile Work hard in silence, let your success be you
 Container Orchestration Load Testing A/B Testing Kafka Scalability Do what you love and the money will follow. React Automation Zero Downtime Deployment RabbitMQ Frontend Virtual Machines
 Latency Optimization Neural Networks Server Response Success is how high you bounce when you hit bottom. Container Orchestration
 Data Science Simplicity is the ultimate sophistication. Kafka Big Data API I find that the harder I work, the more luck I seem to have. Blockchain Database Indexing Python
+DevOps A/B Testing JWT Container Orchestration Act as if what you do makes a difference. It does. Version Control The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Monitoring Success usually comes to those who are too busy to be looking for it. Quantum Computing Latency Optimization
