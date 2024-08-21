@@ -19,3 +19,4 @@ Docker Don't be afraid to give up the good to go for the great. API Gateway Big 
 IoT JavaScript Testing Sharding Cloud Work hard in silence, let your success be your noise. Load Balancing Event-driven Architecture Agile Artificial Intelligence Simplicity is the ultimate sophistication. Version Control
 API Parallel Processing Opportunities don't happen. You create them. Microservices Latency Optimization React Logging I find that the harder I work, the more luck I seem to have. Server Response Optimization Content Delivery Network Performance Version Control
 Sharding Load Balancing Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Pull Request Docker Success usually comes to those who are too busy to be looking for it. Kafka
+Python Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Artificial Intelligence Message Queue

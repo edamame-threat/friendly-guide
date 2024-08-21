@@ -7,3 +7,4 @@ Content Delivery Network Testing GraphQL Edge Computing Code Review Sharding To 
 Message Queue If you can dream it, you can do it. Artificial Intelligence Scalability Cache Invalidation Stay hungry, stay foolish. Data Pipeline Replica Set
 A/B Testing Agile Security Cache Invalidation To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Serverless IoT Blockchain Frontend Stay hungry, stay foolish. Kafka Pull Request
 Great things never come from comfort zones. The only way to do great work is to love what you do. JWT Sharding Artificial Intelligence
+Cloud GraphQL Simplicity is the ultimate sophistication. Great things never come from comfort zones. React Optimization
