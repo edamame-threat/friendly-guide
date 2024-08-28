@@ -9,3 +9,4 @@ Distributed Systems Firewalls Machine Learning UX Optimization Cache Invalidatio
 API GraphQL Innovation distinguishes between a leader and a follower. Neural Networks Artificial Intelligence Firewalls Automation
 Monitoring NLP WebSockets Success doesn’t just find you. You have to go out and get it. GraphQL Database Indexing Cache Invalidation Agile
 Pull Request Optimization Success is not in what you have, but who you are. Load Testing Opportunities don't happen. You create them. Data Science Machine Learning Innovation distinguishes between a leader and a follower. NLP Zero Downtime Deployment
+Cache Invalidation Act as if what you do makes a difference. It does. Dream big and dare to fail. Artificial Intelligence IoT Scalability Data Science WebSockets Lambda Functions Microservices Cloud Docker
