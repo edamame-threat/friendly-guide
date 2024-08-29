@@ -8,3 +8,4 @@ Scalability Message Queue Data Science IoT Data Pipeline Zero Downtime Deploymen
 Optimization UX Optimization Agile Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Artificial Intelligence Simplicity is the ultimate sophistication. Database Indexing The only way to do great work is to love what you do.
 Container Orchestration Load Testing A/B Testing Kafka Scalability Do what you love and the money will follow. React Automation Zero Downtime Deployment RabbitMQ Frontend Virtual Machines
 Latency Optimization Neural Networks Server Response Success is how high you bounce when you hit bottom. Container Orchestration
+Data Science Simplicity is the ultimate sophistication. Kafka Big Data API I find that the harder I work, the more luck I seem to have. Blockchain Database Indexing Python

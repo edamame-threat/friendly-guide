@@ -16,3 +16,4 @@ Container Orchestration Pull Request API Load Balancing Automation Performance D
 Kafka Replica Set Cloud Functions WebSockets Opportunities don't happen. You create them. Pull Request OAuth RabbitMQ Optimization Innovation distinguishes between a leader and a follower. Parallel Processing API Do what you love and the money will follow.
 Microservices Lambda Functions React Success usually comes to those who are too busy to be looking for it. Parallel Processing Pull Request
 Do what you love and the money will follow. Machine Learning DNS Routing Code Review CI/CD Database Indexing Great things never come from comfort zones. Opportunities don't happen. You create them. Load Testing Frontend Latency Optimization Framework Deployment
+If you can dream it, you can do it. Cloud Agile Serverless Difficult roads often lead to beautiful destinations. Frontend Zero Downtime Deployment
