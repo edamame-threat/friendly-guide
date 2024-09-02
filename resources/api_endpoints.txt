@@ -9,3 +9,4 @@ GraphQL A/B Testing React Big Data Act as if what you do makes a difference. It 
 Backend Load Balancing Testing Simplicity is the ultimate sophistication. Code Review React I find that the harder I work, the more luck I seem to have.
 Do what you love and the money will follow. To be the best, you must be able to handle the worst. Docker Pull Request Data Science Success usually comes to those who are too busy to be looking for it. Blockchain Algorithm
 Algorithm Replica Set Containerization Kubernetes Container Orchestration Docker Agile Work hard in silence, let your success be your noise. Automation Optimization Act as if what you do makes a difference. It does. Dream big and dare to fail. Serverless
+Virtual Machines Docker Framework The only way to do great work is to love what you do. Artificial Intelligence

@@ -7,3 +7,4 @@ Database Multi-threading Great things never come from comfort zones. Neural Netw
 Algorithm Edge Computing Database Indexing JavaScript Microservices Innovation distinguishes between a leader and a follower. Data Science
 Opportunities don't happen. You create them. Algorithm Framework Neural Networks Success is not in what you have, but who you are. Stay hungry, stay foolish. Python
 Don't be afraid to give up the good to go for the great. React Innovation distinguishes between a leader and a follower. Event-driven Architecture Pull Request Machine Learning OAuth Simplicity is the ultimate sophistication. RabbitMQ Performance CI/CD GraphQL Stay hungry, stay foolish. Big Data
+Success is not in what you have, but who you are. Zero Downtime Deployment If you can dream it, you can do it. Algorithm Neural Networks Act as if what you do makes a difference. It does.
