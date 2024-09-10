@@ -10,3 +10,4 @@ Happiness is not something ready made. It comes from your own actions. Great thi
 Scalability Algorithm Multi-threading Distributed Systems Sharding JWT Automation Latency Optimization To be the best, you must be able to handle the worst. Backend Load Testing Kafka JavaScript
 Data Pipeline Simplicity is the ultimate sophistication. Optimization React Don't be afraid to give up the good to go for the great. Event-driven Architecture Security If you can dream it, you can do it. UX Optimization Distributed Systems Parallel Processing Blockchain Stay hungry, stay foolish.
 Success is not in what you have, but who you are. Serverless Content Delivery Network Kubernetes Server Response Data Science JWT OAuth
+Kafka A/B Testing API Gateway I find that the harder I work, the more luck I seem to have. IoT Data Pipeline Parallel Processing Firewalls Quantum Computing Optimization
