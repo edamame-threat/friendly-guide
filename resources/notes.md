@@ -4,3 +4,4 @@ NLP Serverless Performance React Security Act as if what you do makes a differen
 Simplicity is the ultimate sophistication. Container Orchestration Success is how high you bounce when you hit bottom. Load Balancing Kubernetes Sharding Big Data API Performance Opportunities don't happen. You create them. UX Optimization
 Data Pipeline Scalability Testing Monitoring Docker
 Load Balancing Distributed Systems OAuth IoT Multi-threading
+JavaScript API Gateway Work hard in silence, let your success be your noise. Python Data Science DevOps
