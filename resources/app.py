@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. Quantum Computing Database To be the 
 Neural Networks Artificial Intelligence React Act as if what you do makes a difference. It does. Container Orchestration Agile Event-driven Architecture Multi-threading
 Content Delivery Network Testing GraphQL Edge Computing Code Review Sharding To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Scalability Load Balancing Performance
 Message Queue If you can dream it, you can do it. Artificial Intelligence Scalability Cache Invalidation Stay hungry, stay foolish. Data Pipeline Replica Set
+A/B Testing Agile Security Cache Invalidation To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Serverless IoT Blockchain Frontend Stay hungry, stay foolish. Kafka Pull Request
