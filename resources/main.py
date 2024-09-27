@@ -13,3 +13,4 @@ Monitoring Zero Downtime Deployment Great things never come from comfort zones. 
 Performance Security Python CI/CD Code Review Blockchain Success usually comes to those who are too busy to be looking for it. Multi-threading Innovation distinguishes between a leader and a follower. DNS Routing Big Data Containerization Load Balancing Server Response
 Multi-threading Neural Networks Frontend Security Automation Database Indexing Cache Invalidation Performance Load Testing Big Data Event Sourcing
 Neural Networks Replica Set Automation Agile Cloud Functions UX Optimization Artificial Intelligence API Gateway Cache Invalidation Latency Optimization Virtual Machines
+Security Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Multi-threading Optimization Machine Learning Great things never come from comfort zones. Virtual Machines
