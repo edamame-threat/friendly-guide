@@ -6,3 +6,4 @@ Predictive Analytics Kubernetes Sharding Multi-threading JWT Code Review Cloud S
 WebSockets Virtual Machines Dream big and dare to fail. Distributed Systems Big Data Automation Performance API
 Act as if what you do makes a difference. It does. Replica Set Database Indexing Data Pipeline Microservices Cloud Functions
 Message Queue Security Stay hungry, stay foolish. API Gateway JavaScript Kubernetes A/B Testing UX Optimization Kafka Great things never come from comfort zones. Scalability Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Code Review
+Event-driven Architecture Virtual Machines IoT Logging Quantum Computing Deployment Happiness is not something ready made. It comes from your own actions. Firewalls Message Queue API Gateway UX Optimization
