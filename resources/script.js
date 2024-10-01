@@ -7,3 +7,4 @@ If you can dream it, you can do it. Innovation distinguishes between a leader an
 Agile Multi-threading Content Delivery Network CI/CD Success usually comes to those who are too busy to be looking for it. Frontend Docker Blockchain Python Do what you love and the money will follow.
 Sharding Artificial Intelligence A/B Testing Opportunities don't happen. You create them. DNS Routing Docker React Neural Networks Security
 Agile Replica Set Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Neural Networks Data Pipeline Cloud Big Data Server Response Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Event Sourcing Deployment
+Docker Cache Invalidation Pull Request WebSockets Scalability Happiness is not something ready made. It comes from your own actions.
