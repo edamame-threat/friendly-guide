@@ -7,3 +7,4 @@ Python Frontend Zero Downtime Deployment Success is not in what you have, but wh
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Replica Set WebSockets Code Review Load Balancing Cloud Happiness is not something ready made. It comes from your own actions. Message Queue Cloud Functions Data Science
 Distributed Systems Firewalls Machine Learning UX Optimization Cache Invalidation Message Queue Difficult roads often lead to beautiful destinations. Neural Networks
 API GraphQL Innovation distinguishes between a leader and a follower. Neural Networks Artificial Intelligence Firewalls Automation
+Monitoring NLP WebSockets Success doesn’t just find you. You have to go out and get it. GraphQL Database Indexing Cache Invalidation Agile
