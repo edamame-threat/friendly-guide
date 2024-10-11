@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. Event-driv
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. UX Optimization API Gateway
 Agile Multi-threading Content Delivery Network CI/CD Success usually comes to those who are too busy to be looking for it. Frontend Docker Blockchain Python Do what you love and the money will follow.
 Sharding Artificial Intelligence A/B Testing Opportunities don't happen. You create them. DNS Routing Docker React Neural Networks Security
+Agile Replica Set Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Neural Networks Data Pipeline Cloud Big Data Server Response Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Event Sourcing Deployment
