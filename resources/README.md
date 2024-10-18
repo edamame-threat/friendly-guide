@@ -8,3 +8,4 @@ Load Testing Predictive Analytics Testing Logging Event Sourcing Firewalls
 Containerization Sharding Don't be afraid to give up the good to go for the great. React Kubernetes RabbitMQ Data Pipeline DevOps Load Balancing Load Testing
 Do what you love and the money will follow. WebSockets Version Control Event Sourcing API Performance API Gateway Multi-threading
 JavaScript Success is how high you bounce when you hit bottom. Pull Request Blockchain Cloud Data Science JWT Replica Set Agile Great things never come from comfort zones. Content Delivery Network Stay hungry, stay foolish. Parallel Processing
+Serverless Dream big and dare to fail. Logging JWT Algorithm I find that the harder I work, the more luck I seem to have. Server Response Frontend API Gateway Distributed Systems Cloud Functions Performance Latency Optimization The only way to do great work is to love what you do. Agile
