@@ -4,3 +4,4 @@ Logging Difficult roads often lead to beautiful destinations. Event-driven Archi
 Event Sourcing Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Lambda Functions Cloud GraphQL Load Balancing
 Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Logging DNS Routing Automation JavaScript Testing OAuth Optimization Replica Set DevOps Great things never come from comfort zones. Version Control Zero Downtime Deployment Serverless
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. UX Optimization API Gateway
+Agile Multi-threading Content Delivery Network CI/CD Success usually comes to those who are too busy to be looking for it. Frontend Docker Blockchain Python Do what you love and the money will follow.

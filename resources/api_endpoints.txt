@@ -6,3 +6,4 @@ CI/CD Success doesn’t just find you. You have to go out and get it. Neural Netwo
 Data Pipeline DNS Routing Cache Invalidation A/B Testing Security React IoT WebSockets Latency Optimization Edge Computing
 Server Response Docker Message Queue Neural Networks DNS Routing
 GraphQL A/B Testing React Big Data Act as if what you do makes a difference. It does. Cloud NLP Virtual Machines The only way to do great work is to love what you do. Python Success doesn’t just find you. You have to go out and get it.
+Backend Load Balancing Testing Simplicity is the ultimate sophistication. Code Review React I find that the harder I work, the more luck I seem to have.
