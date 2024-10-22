@@ -12,3 +12,4 @@ Version Control Do what you love and the money will follow. RabbitMQ Distributed
 Containerization API A/B Testing Database API Gateway Don't be afraid to give up the good to go for the great. Neural Networks Frontend Sharding Blockchain Data Science Simplicity is the ultimate sophistication.
 Event-driven Architecture Latency Optimization Scalability Don't be afraid to give up the good to go for the great. Deployment Success is how high you bounce when you hit bottom. NLP Replica Set Kafka The only way to do great work is to love what you do. Lambda Functions Backend
 Logging Microservices RabbitMQ Quantum Computing Python Deployment Agile Data Pipeline IoT Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Cloud Database
+Container Orchestration Pull Request API Load Balancing Automation Performance Dream big and dare to fail. Optimization DNS Routing
