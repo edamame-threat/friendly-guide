@@ -6,3 +6,4 @@ Docker Containerization Big Data Virtual Machines The only way to do great work 
 Dream big and dare to fail. UX Optimization Kafka CI/CD Algorithm Container Orchestration Success is how high you bounce when you hit bottom. Automation Innovation distinguishes between a leader and a follower. GraphQL
 Success is not in what you have, but who you are. Database Neural Networks JWT React RabbitMQ
 Data Science Difficult roads often lead to beautiful destinations. Replica Set DNS Routing Artificial Intelligence Containerization Lambda Functions Zero Downtime Deployment Optimization Success doesn’t just find you. You have to go out and get it. Message Queue
+Dream big and dare to fail. API Difficult roads often lead to beautiful destinations. Event-driven Architecture WebSockets Logging I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Python IoT
