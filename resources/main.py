@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. Edge Compu
 GraphQL Innovation distinguishes between a leader and a follower. Kubernetes Containerization Happiness is not something ready made. It comes from your own actions. OAuth Success doesn’t just find you. You have to go out and get it. Performance
 DevOps Zero Downtime Deployment Deployment Edge Computing UX Optimization
 Pull Request Neural Networks A/B Testing Python Cloud
+Monitoring Zero Downtime Deployment Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Neural Networks Database Indexing Work hard in silence, let your success be your noise. Agile Success is not in what you have, but who you are. Kafka Event Sourcing Event-driven Architecture Firewalls Success is how high you bounce when you hit bottom.
