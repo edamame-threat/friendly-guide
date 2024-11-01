@@ -10,3 +10,4 @@ Event Sourcing WebSockets Serverless DNS Routing UX Optimization Great things ne
 To be the best, you must be able to handle the worst. Big Data Zero Downtime Deployment Kubernetes UX Optimization
 Version Control Do what you love and the money will follow. RabbitMQ Distributed Systems Testing Deployment Code Review UX Optimization Load Balancing A/B Testing
 Containerization API A/B Testing Database API Gateway Don't be afraid to give up the good to go for the great. Neural Networks Frontend Sharding Blockchain Data Science Simplicity is the ultimate sophistication.
+Event-driven Architecture Latency Optimization Scalability Don't be afraid to give up the good to go for the great. Deployment Success is how high you bounce when you hit bottom. NLP Replica Set Kafka The only way to do great work is to love what you do. Lambda Functions Backend
