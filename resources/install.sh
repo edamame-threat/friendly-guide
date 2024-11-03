@@ -7,3 +7,4 @@ Multi-threading Distributed Systems Agile I find that the harder I work, the mor
 Cloud Docker Code Review Success is how high you bounce when you hit bottom. RabbitMQ Performance GraphQL Version Control Firewalls
 Latency Optimization If you can dream it, you can do it. The only way to do great work is to love what you do. Microservices Algorithm Content Delivery Network Event-driven Architecture Firewalls Innovation distinguishes between a leader and a follower. Load Balancing API
 DevOps Testing Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. A/B Testing Edge Computing
+Version Control Dream big and dare to fail. Backend JavaScript Python Event Sourcing Cache Invalidation
