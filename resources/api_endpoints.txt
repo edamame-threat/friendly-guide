@@ -5,3 +5,4 @@ Lambda Functions Data Pipeline UX Optimization Logging Success is how high you b
 CI/CD Success doesn’t just find you. You have to go out and get it. Neural Networks Code Review Artificial Intelligence Stay hungry, stay foolish. Edge Computing Great things never come from comfort zones. Database Indexing
 Data Pipeline DNS Routing Cache Invalidation A/B Testing Security React IoT WebSockets Latency Optimization Edge Computing
 Server Response Docker Message Queue Neural Networks DNS Routing
+GraphQL A/B Testing React Big Data Act as if what you do makes a difference. It does. Cloud NLP Virtual Machines The only way to do great work is to love what you do. Python Success doesn’t just find you. You have to go out and get it.
