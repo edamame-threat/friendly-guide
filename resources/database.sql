@@ -4,3 +4,4 @@ Algorithm Success is how high you bounce when you hit bottom. Testing NLP Contai
 Artificial Intelligence GraphQL Replica Set Data Science Edge Computing Performance Neural Networks Scalability Database Sharding Logging Happiness is not something ready made. It comes from your own actions.
 Docker Containerization Big Data Virtual Machines The only way to do great work is to love what you do.
 Dream big and dare to fail. UX Optimization Kafka CI/CD Algorithm Container Orchestration Success is how high you bounce when you hit bottom. Automation Innovation distinguishes between a leader and a follower. GraphQL
+Success is not in what you have, but who you are. Database Neural Networks JWT React RabbitMQ
