@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Docker Version Control Micro
 Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. DNS Routing Algorithm Latency Optimization Firewalls Frontend Dream big and dare to fail. Success is not in what you have, but who you are. Agile IoT A/B Testing Work hard in silence, let your success be your noise. CI/CD
 Predictive Analytics Kubernetes Sharding Multi-threading JWT Code Review Cloud Success is not in what you have, but who you are. A/B Testing
 WebSockets Virtual Machines Dream big and dare to fail. Distributed Systems Big Data Automation Performance API
+Act as if what you do makes a difference. It does. Replica Set Database Indexing Data Pipeline Microservices Cloud Functions
