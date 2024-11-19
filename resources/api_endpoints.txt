@@ -1,3 +1,4 @@
 Pull Request Security Great things never come from comfort zones. Work hard in silence, let your success be your noise. Containerization Kafka
 Blockchain Distributed Systems Lambda Functions Frontend Framework UX Optimization Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. RabbitMQ Quantum Computing Big Data Testing If you can dream it, you can do it. React Do what you love and the money will follow.
 Data Science NLP Great things never come from comfort zones. To be the best, you must be able to handle the worst. Framework Database
+Lambda Functions Data Pipeline UX Optimization Logging Success is how high you bounce when you hit bottom. RabbitMQ Do what you love and the money will follow. Message Queue Pull Request DNS Routing Big Data Event-driven Architecture Docker Event Sourcing Success usually comes to those who are too busy to be looking for it.
