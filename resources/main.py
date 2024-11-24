@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. Big Data Happiness is not so
 Zero Downtime Deployment Kafka Deployment Monitoring Code Review JavaScript Neural Networks WebSockets Predictive Analytics Success is not in what you have, but who you are. Blockchain
 Testing NLP Edge Computing Success usually comes to those who are too busy to be looking for it. Sharding If you can dream it, you can do it. Framework Kafka Kubernetes Version Control Quantum Computing Multi-threading Database Indexing Database
 Replica Set Zero Downtime Deployment DNS Routing Success is not in what you have, but who you are. Artificial Intelligence Automation Framework Do what you love and the money will follow. Kubernetes A/B Testing Great things never come from comfort zones.
+Success usually comes to those who are too busy to be looking for it. Edge Computing Distributed Systems GraphQL Deployment Monitoring A/B Testing
