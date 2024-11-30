@@ -7,3 +7,4 @@ Simplicity is the ultimate sophistication. Database Indexing Monitoring A/B Test
 DNS Routing Virtual Machines I find that the harder I work, the more luck I seem to have. Cloud Functions Deployment Code Review Testing
 Innovation distinguishes between a leader and a follower. OAuth I find that the harder I work, the more luck I seem to have. Load Testing API Big Data Content Delivery Network Logging Algorithm
 Event Sourcing WebSockets Serverless DNS Routing UX Optimization Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Algorithm Firewalls
+To be the best, you must be able to handle the worst. Big Data Zero Downtime Deployment Kubernetes UX Optimization
