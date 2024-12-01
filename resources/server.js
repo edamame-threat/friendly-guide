@@ -5,3 +5,4 @@ Multi-threading Server Response GraphQL Deployment Pull Request DNS Routing Kafk
 Event-driven Architecture Microservices Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Replica Set Parallel Processing Database Indexing Artificial Intelligence Database Serverless JavaScript
 Pull Request GraphQL Monitoring Sharding Content Delivery Network Machine Learning Multi-threading Backend Scalability Distributed Systems Data Pipeline Firewalls Neural Networks
 Difficult roads often lead to beautiful destinations. Containerization Microservices Code Review Automation Virtual Machines Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions.
+Performance Kafka Containerization Innovation distinguishes between a leader and a follower. Replica Set Latency Optimization Python

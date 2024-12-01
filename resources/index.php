@@ -6,3 +6,4 @@ Security OAuth Distributed Systems Cloud Functions Content Delivery Network Fram
 Simplicity is the ultimate sophistication. Database Indexing Monitoring A/B Testing Containerization
 DNS Routing Virtual Machines I find that the harder I work, the more luck I seem to have. Cloud Functions Deployment Code Review Testing
 Innovation distinguishes between a leader and a follower. OAuth I find that the harder I work, the more luck I seem to have. Load Testing API Big Data Content Delivery Network Logging Algorithm
+Event Sourcing WebSockets Serverless DNS Routing UX Optimization Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Algorithm Firewalls

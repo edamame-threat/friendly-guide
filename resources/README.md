@@ -5,3 +5,4 @@ Zero Downtime Deployment Big Data Great things never come from comfort zones. Fr
 Agile Data Pipeline Load Testing Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Framework Kubernetes Don't be afraid to give up the good to go for the great.
 If you can dream it, you can do it. Blockchain Serverless Multi-threading Quantum Computing Stay hungry, stay foolish. Security Parallel Processing
 Load Testing Predictive Analytics Testing Logging Event Sourcing Firewalls
+Containerization Sharding Don't be afraid to give up the good to go for the great. React Kubernetes RabbitMQ Data Pipeline DevOps Load Balancing Load Testing
