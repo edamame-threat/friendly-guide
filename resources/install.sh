@@ -5,3 +5,4 @@ Virtual Machines API GraphQL Pull Request If you can dream it, you can do it. Gr
 Success is not in what you have, but who you are. UX Optimization CI/CD Great things never come from comfort zones. Database Zero Downtime Deployment DevOps Load Balancing Scalability Backend
 Multi-threading Distributed Systems Agile I find that the harder I work, the more luck I seem to have. Container Orchestration
 Cloud Docker Code Review Success is how high you bounce when you hit bottom. RabbitMQ Performance GraphQL Version Control Firewalls
+Latency Optimization If you can dream it, you can do it. The only way to do great work is to love what you do. Microservices Algorithm Content Delivery Network Event-driven Architecture Firewalls Innovation distinguishes between a leader and a follower. Load Balancing API
