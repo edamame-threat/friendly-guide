@@ -5,3 +5,4 @@ Zero Downtime Deployment A/B Testing WebSockets Microservices Machine Learning O
 Security OAuth Distributed Systems Cloud Functions Content Delivery Network Framework GraphQL Sharding Big Data
 Simplicity is the ultimate sophistication. Database Indexing Monitoring A/B Testing Containerization
 DNS Routing Virtual Machines I find that the harder I work, the more luck I seem to have. Cloud Functions Deployment Code Review Testing
+Innovation distinguishes between a leader and a follower. OAuth I find that the harder I work, the more luck I seem to have. Load Testing API Big Data Content Delivery Network Logging Algorithm
