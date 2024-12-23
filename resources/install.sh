@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. OAuth Firewalls Code Review 
 Virtual Machines API GraphQL Pull Request If you can dream it, you can do it. Great things never come from comfort zones. Neural Networks A/B Testing Work hard in silence, let your success be your noise. Cloud Success is not in what you have, but who you are. Cloud Functions Serverless Success doesn’t just find you. You have to go out and get it. React
 Success is not in what you have, but who you are. UX Optimization CI/CD Great things never come from comfort zones. Database Zero Downtime Deployment DevOps Load Balancing Scalability Backend
 Multi-threading Distributed Systems Agile I find that the harder I work, the more luck I seem to have. Container Orchestration
+Cloud Docker Code Review Success is how high you bounce when you hit bottom. RabbitMQ Performance GraphQL Version Control Firewalls
