@@ -4,3 +4,4 @@ Agile Simplicity is the ultimate sophistication. Happiness is not something read
 Zero Downtime Deployment A/B Testing WebSockets Microservices Machine Learning Optimization Agile
 Security OAuth Distributed Systems Cloud Functions Content Delivery Network Framework GraphQL Sharding Big Data
 Simplicity is the ultimate sophistication. Database Indexing Monitoring A/B Testing Containerization
+DNS Routing Virtual Machines I find that the harder I work, the more luck I seem to have. Cloud Functions Deployment Code Review Testing
