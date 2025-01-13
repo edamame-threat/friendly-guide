@@ -1,1 +1,2 @@
 CI/CD Event-driven Architecture Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. OAuth JWT Multi-threading Simplicity is the ultimate sophistication. UX Optimization Neural Networks Do what you love and the money will follow.
+Simplicity is the ultimate sophistication. Do what you love and the money will follow. Cache Invalidation Load Balancing API Gateway Serverless
