@@ -1,3 +1,4 @@
 Framework Event-driven Architecture Act as if what you do makes a difference. It does. Parallel Processing The only way to do great work is to love what you do. Server Response Difficult roads often lead to beautiful destinations. Machine Learning Event Sourcing Artificial Intelligence Load Testing Database Container Orchestration RabbitMQ Distributed Systems
 Lambda Functions Great things never come from comfort zones. DNS Routing UX Optimization Load Testing WebSockets Content Delivery Network Event-driven Architecture Quantum Computing Agile
 Database Indexing Lambda Functions Kubernetes JavaScript RabbitMQ Don't be afraid to give up the good to go for the great. Load Testing Data Pipeline Optimization DNS Routing Python Success doesn’t just find you. You have to go out and get it. Sharding Database
+NLP Data Science Event Sourcing Container Orchestration Docker Python React Kafka Content Delivery Network Lambda Functions Framework Kubernetes
