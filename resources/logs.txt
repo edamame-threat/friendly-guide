@@ -1,1 +1,2 @@
 Framework Event-driven Architecture Act as if what you do makes a difference. It does. Parallel Processing The only way to do great work is to love what you do. Server Response Difficult roads often lead to beautiful destinations. Machine Learning Event Sourcing Artificial Intelligence Load Testing Database Container Orchestration RabbitMQ Distributed Systems
+Lambda Functions Great things never come from comfort zones. DNS Routing UX Optimization Load Testing WebSockets Content Delivery Network Event-driven Architecture Quantum Computing Agile
