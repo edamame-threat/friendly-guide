@@ -1,2 +1,3 @@
 Agile Success usually comes to those who are too busy to be looking for it. Server Response Success is how high you bounce when you hit bottom. CI/CD Performance Load Balancing A/B Testing Event Sourcing
 Virtual Machines Docker Event-driven Architecture Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Parallel Processing NLP Blockchain Cloud Functions JWT Algorithm
+Success is how high you bounce when you hit bottom. OAuth Firewalls Code Review Stay hungry, stay foolish. Optimization Agile Testing Blockchain Innovation distinguishes between a leader and a follower.
