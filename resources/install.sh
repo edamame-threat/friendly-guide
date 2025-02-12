@@ -1,0 +1,1 @@
+Agile Success usually comes to those who are too busy to be looking for it. Server Response Success is how high you bounce when you hit bottom. CI/CD Performance Load Balancing A/B Testing Event Sourcing
